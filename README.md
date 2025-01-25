@@ -87,7 +87,7 @@ antistealer.py dosyasını çalıştırarak Grafiksel arayüze Erişebilirsiniz.
 
 İsterseniz [Releases](https://github.com/emirhannyvz/Antistealer/releases "Exe dosyasını indirebilirsiniz.") butonuna tıkayarak Exe olarak çalıştırabilirsiniz.
 
-Açılan ekranda ***Lock Files*** butonuna tıklandığında Rat salıdırlarında çalınık olan verilerinizin olduğu klasörler kilitlenerek ***verilerinizi koruma altına alırsınız***.
+Açılan ekranda ***Lock Files*** butonuna tıklandığında Rat salıdırlarında çalınabilecek olan verilerinizin olduğu klasörler kilitlenerek ***verilerinizi koruma altına alırsınız***.
 
 Kilitlenen Klasör ve Dosyalarınızın kilidini kaldırmak için ***Unlock Files*** butonuna tıklayabilirsiniz.
 
