@@ -1,4 +1,4 @@
-# MACInsight - Ağ Cihazı Analiz ve Güvenlik Tarama Aracı
+# Antistealer - Güvenlik ve Dosya Erişimi Kısıtlama Aracı
 
 ## 🎯 Proje Özeti
 
