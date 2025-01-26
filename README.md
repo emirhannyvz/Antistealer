@@ -76,7 +76,7 @@ Antistealer/
 İlk olarak, proje klasörüne gidin ve gerekli Python kütüphanelerini yüklemek için terminal üzerinden aşağıdaki komutu çalıştırın:
 
 ```bash
-pip install -r reports/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Ağ Tarama Başlatın:
